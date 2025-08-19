@@ -56,7 +56,7 @@ def main():
     """)
 
     st.sidebar.image("2.png")
-    st.sidebar.image("1.png")
+    st.sidebar.image("1.PNG")
     st.info("build by dw")
 
     # Load Groq API Key
@@ -168,3 +168,4 @@ END_MACRO
 
 if __name__ == "__main__":
     main()
+
